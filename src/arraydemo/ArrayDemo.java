@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 
 public class ArrayDemo {
+    // added first comment 
 
     private static char[] myLetters;
 

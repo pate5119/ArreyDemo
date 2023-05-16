@@ -3,6 +3,7 @@ package arraydemo;
 
 
 public class Studentclass {
+   
     private String  studentID ;
     private String  studentname ;
 
