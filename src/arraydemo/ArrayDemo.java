@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class ArrayDemo {
     // added first comment
     // add featch and marge 
+    // add comment on pull...
 
     private static char[] myLetters;
 
